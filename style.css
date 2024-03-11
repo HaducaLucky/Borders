@@ -1,0 +1,13 @@
+h1 {
+    border: 3px solid rgb(197, 13, 13);
+    border-radius: 20px;
+}
+
+p {
+    border-bottom: solid 3px rgb(18, 204, 157);
+    border-top: solid 3px yellow;
+    border-left: dotted 5px blue;
+    border-right: dotted 5px orangered;
+
+    border-radius: 10px;
+}
